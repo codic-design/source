@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 219.02 241.85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: #00796a;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 1.6px;
+      }
+
+      .cls-5 {
+        mix-blend-mode: overlay;
+        opacity: .4;
+      }
+
+      .cls-6 {
+        fill: #00ab97;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="4059.54" y1="448.94" x2="3572.7" y2="940.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".09" stop-color="#cdeaea"/>
+      <stop offset=".19" stop-color="#a2d8d9"/>
+      <stop offset=".28" stop-color="#7fc9ca"/>
+      <stop offset=".38" stop-color="#64bebf"/>
+      <stop offset=".48" stop-color="#51b6b7"/>
+      <stop offset=".58" stop-color="#45b1b2"/>
+      <stop offset=".68" stop-color="#42b0b1"/>
+      <stop offset="1" stop-color="#407aa4"/>
+    </linearGradient>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="3385.26" y="512.98" width="613.66" height="613.66"/>
+    </clipPath>
+  </defs>
+  <g class="cls-2">
+    <g id="Layer_6" data-name="Layer 6">
+      <g>
+        <rect class="cls-1" x="3385.26" y="512.98" width="613.66" height="613.66"/>
+        <g class="cls-7">
+          <g class="cls-5">
+            <polygon class="cls-4" points="8424.2 -674.15 6207.71 -1305.97 1730.64 -1641.33 -293.42 -102.98 7.39 1318.3 2256.57 2579.94 5267.32 2656.12 7986.8 1528.72 8424.2 -674.15"/>
+          </g>
+        </g>
+      </g>
+      <g>
+        <path class="cls-3" d="M203.73,70.92c6.27-32.26-9.86-55.48-51.15-55.48h-84.75c-8.6,0-16.92,6.97-18.59,15.57L14.28,210.84c-1.67,8.6,3.94,15.57,12.54,15.57h93.14c42.26,0,67.99-24.52,74.45-57.74,4.83-24.84-4.44-43.55-25.13-51.61l.13-.65c17.82-8.71,30.31-24.84,34.32-45.48ZM154.57,50.33l-27.38,140.86c-.92,4.72-5.49,8.55-10.21,8.55H49.76c-4.72,0-7.81-3.83-6.89-8.55l27.38-140.86c.92-4.72,5.49-8.55,10.21-8.55h67.21c4.72,0,7.81,3.83,6.89,8.55Z"/>
+        <path class="cls-6" d="M90.06,165.3c-7.82,0-15.39,6.34-16.91,14.16-1.52,7.82,3.59,14.16,11.41,14.16s15.39-6.34,16.91-14.16c1.52-7.82-3.59-14.16-11.41-14.16Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
